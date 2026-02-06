@@ -40,8 +40,7 @@ Thumbs.db
 .env
 config_local.py
 
-# Keras/TensorFlow tuning (large files)
-my_dir/
+# Keras/TensorFlow tuning
 .keras/
 
 # Cache
